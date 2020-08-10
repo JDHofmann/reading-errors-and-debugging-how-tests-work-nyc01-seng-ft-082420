@@ -1,6 +1,6 @@
 # Add your variables here
 first_number = 6
-second_number = .45
+second_number = 0.45
 
 sum = first_number + second_number
 difference = first_number - second_number
